@@ -1,0 +1,14 @@
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\bin\Debug\net7.0\Task2.exe
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\bin\Debug\net7.0\Task2.deps.json
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\bin\Debug\net7.0\Task2.dll
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\bin\Debug\net7.0\Task2.pdb
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\Task2.dll
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\refint\Task2.dll
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\Task2.pdb
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+G:\С диска seagate\Рабочий стол 2019\Анастасия\Новая папка (2)\Task2\obj\Debug\net7.0\ref\Task2.dll
